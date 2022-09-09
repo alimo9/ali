@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: "Blog"
+Title: ""
 ---
 
-Immigrant, father, husband, mobile & aerial photography fan, and a generic human with access to the internet #Alexandria #Zamalek
+Generic human with access to the internet, husband, father, mobile & aerial photography fan, immigrant, #Alexandria, #Zamalek
