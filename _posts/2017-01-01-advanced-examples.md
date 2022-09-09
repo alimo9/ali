@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Azure"
 mathjax: true
 layout: post
 categories: media
