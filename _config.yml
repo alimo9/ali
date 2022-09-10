@@ -32,3 +32,10 @@ comments:
 
 plugins:
  - jekyll-feed
+ 
+ # Set default header image
+header: yes
+header_sm: images/banner-small.jpg
+header_med: images/banner-med.jpg
+header_large: images/banner-large.jpg
+header_xl: images/banner-xl.jpg
