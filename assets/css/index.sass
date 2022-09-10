@@ -1,7 +1,7 @@
 ---
 ---
 
-@import index, font, basic, layout, classes
+@import index, font, basic, layout, classes, banner_img.png
 
 @media (min-width: 40em)
   body > header, body > article, body > footer
@@ -13,6 +13,7 @@ body > header
   background: $dark
   color: $light
   border-bottom: 1px solid reduce(14)
+  img:  50px , 50px $align: left
 
 {% else %}
 
@@ -26,3 +27,4 @@ body > footer
   box-shadow: 0 0 .6em rgba($dark, 0.04) inset
   border-top: 1px solid reduce(14)
   opacity: .9
+    
